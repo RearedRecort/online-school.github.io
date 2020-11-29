@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@100;300;400;500;600;700;800;900&family=Comfortaa:wght@300;400;500;600;700&family=Lobster&display=swap');
+
+#name-dannye_polsovateley_sayta_table {
+	font-family: 'Lobster', cursive;
+	text-align:center;
+}
+
+.dannye_polsovateley_sayta_table {
+	border:2px solid white;
+	font-family: 'Comfortaa', cursive;
+	text-align:center;
+}
+
+#name-updates {
+	font-family: 'Lobster', cursive;
+	text-align:center;
+}
+
+#updates {
+	font-family: 'Comfortaa', cursive;
+}

@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@100;300;400;500;600;700;800;900&family=Comfortaa:wght@300;400;500;600;700&family=Lobster&display=swap');
+
+#header {
+	color:#6db37d;
+	width:100%;
+	height:150px;
+	text-align:center;
+	position: relative;
+	float:top;
+}
+
+#footer {
+	background:#38453b;
+	border-top:5px solid #6db37d;
+	color:#6db37d;
+	width:100%;
+	height:150px;
+	text-align:center;
+	float:bottom;
+	position: relative;
+}
+
+#menu-bar table {
+	width:100%;
+	text-align:center;
+}
+
+#menu-bar table tr th {
+	display:inline;
+	height:50px;
+	background:#38453b;
+	border:5px solid #6db37d;
+}
+
+#menu-bar table tr th:not(:last-of-type) {
+	margin-right:20px;
+}
+
+#menu-bar table tr th:hover {
+	background:#203213;
+	border-bottom:5px solid #6db37d;
+}
+#main{
+	z-index: 0;
+	background:black;
+	color:white;
+	
+}
+
+* {
+	margin:0px;
+	padding:0px;
+}
+header {
+	background:#203213;
+	border-bottom: 5px solid #6db37d;
+	z-index: 1;
+}
